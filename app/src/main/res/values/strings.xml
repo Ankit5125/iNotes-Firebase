@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">iNotes</string>
+    <string name="login">Login</string>
+    <string name="signup">SignUp</string>
+    <string name="email">Email</string>
+    <string name="loginText">Welcome back! \nGlad to see you, Again!</string>
+    <string name="welcome_back">Welcome Back !</string>
+    <string name="Greetings1">Glad to see you, Again!</string>
+    <string name="password">Password</string>
+    <string name="forget_password">Forget Password</string>
+    <string name="have_account">Already Have Account ? Login</string>
+    <string name="dont_have_account">Don\'t Have Account ? Sign Up</string>
+    <string name="register_to_get_started">Register To Get Started</string>
+    <string name="hello">Hello !</string>
+    <string name="forget_password_question_mark">Forget Password ?</string>
+    <string name="don_t_worry_we_are_here">Don\'t Worry We are Here</string>
+    <string name="send_email">Send Email</string>
+    <string name="list">List</string>
+    <string name="folders">Folders</string>
+    <string name="account">Account</string>
+    <string name="logout">Logout</string>
+    <string name="this_is_heading_text_of_note">This is The Heading Text of Note</string>
+    <string name="this_is_the_body_text_of_note">This is the Body Text of Note</string>
+    <string name="this_is_a_upload_button">This is a upload Button</string>
+    <string name="title_here">Title Here</string>
+    <string name="discription">Discription</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="edit_existing_note">Edit Existing Note</string>
+</resources>
